@@ -21,9 +21,6 @@
 
 <table width="100">
 <tr>
-  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46"  >
-    </td>
  <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
     </td>
@@ -38,9 +35,6 @@
  
 <tr>
  
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
-    </td>
  <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
     </td>

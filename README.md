@@ -37,9 +37,7 @@
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
-    </td>
+ 
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
     </td>

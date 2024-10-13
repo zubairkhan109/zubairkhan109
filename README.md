@@ -47,12 +47,7 @@
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fmain-qimg-28cadbd02699c25a88e5c78d73c7babc.webp?alt=media&token=e03aae20-c058-41a3-942b-162fdc622bd5">
-    </td>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1590522535032.png?alt=media&token=fb2cfe3b-0b15-48e6-8abd-1e1b0b8308f2">
-    </td>
+
  <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fimages.png?alt=media&token=b1a763bb-970f-4c95-8e6a-c014434f9d1e" >
     </td>

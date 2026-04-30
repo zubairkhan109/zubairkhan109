@@ -7,4 +7,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkhan109&layout=compact&theme=tokyonight" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhan109&" alt="mfareed1947" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhan109&" alt="zubairkhan109" /></p>

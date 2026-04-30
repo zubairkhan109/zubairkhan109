@@ -3,3 +3,6 @@
          height="45"
                             width="45" /> there, I'm <a href="https://github.com/Shyan-meo"> Zubair khan</a> </h1> 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkhan109&layout=compact&theme=tokyonight" />
+</p>
